@@ -22,8 +22,8 @@ AFRAME.registerComponent('clickgltf', { // click on intrest point
 function loadPlaces() { // actions
     return [
         {
-            lat: 51.17230311036323,
-            lon: 4.1399963200092325,
+            lat: 51.224997,
+            lon: 4.474415,
             id: "0",
         },
         {
