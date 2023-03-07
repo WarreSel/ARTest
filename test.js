@@ -65,8 +65,8 @@ function loadPlaces() { // actions
 function loadGltfModelsOfAction() { // get from db later
     return [
         {
-            lat: 51.224997,
-            lon: 4.474415,
+            lat: 51.225007,
+            lon: 4.474458,
             height: -15,
             assetName: "bench.gltf",
             name: "bench",
